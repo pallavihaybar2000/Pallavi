@@ -3,3 +3,4 @@ Hello
 Good morning
 Today is friday
 Good night
+Bye bye
